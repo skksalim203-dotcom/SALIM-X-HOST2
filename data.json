@@ -1,0 +1,17 @@
+{
+  "servers": {},
+  "users": {
+    "admin": {
+      "joined": "2026-06-21T20:19:48.890248",
+      "password_hash": "b2c35019aeac4f59692fed9f5051fa8dd9af6a547e4172964c2b53ab46e01ac2"
+    }
+  },
+  "settings": {
+    "maintenance": false,
+    "maintenance_msg": "System under maintenance.",
+    "theme_color": "#00ff41",
+    "normal_password": "SALIM",
+    "site_name": "SALIM VPS",
+    "auto_restart_interval": 300
+  }
+}
